@@ -10,6 +10,6 @@ The following table is the reference for the taskID and task-variationID
 | ***TASK-VAR*** | ***Task*** | ***Variation*** |
 | -------------- | ---------- | --------------- |
 | 1-1 | Waste collection | Wastes from all doctors chambers |
-| 1-2 | Waste collection | Waste information from nurse |
+| 1-2 |  | Waste information from nurse |
 
 
