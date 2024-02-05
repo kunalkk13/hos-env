@@ -1,5 +1,5 @@
-# hospital-env
-The repo contains all the files that would be created for the hospital environment for all the frameworks.
+# Custom-env
+The repo contains all the files that would be created for the environment for all the frameworks.
 
 * ```goldpath``` : Contains scripts that follow the actual ground path to accomplish a given task.
 * ```twine``` : games created using the twine framework.
