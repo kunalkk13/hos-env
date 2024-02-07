@@ -7,9 +7,9 @@ The repo contains all the files that would be created for the environment for al
 
 The following table is the reference for the taskID and task-variationID
 
-| ***TASK-VAR*** | ***Task*** | ***Variation*** |
+| ***TASK-ID*** | ***Task*** | ***Number of Variations*** |
 | -------------- | ---------- | --------------- |
-| 1-1 | Waste collection | Waste from all doctors chambers |
-| 1-2 |  | Waste information from nurse |
+| 1 | Waste collection | 10 |
+| 2 | Pharmacy Tasks | 10 |
 
 
