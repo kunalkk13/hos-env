@@ -9,7 +9,8 @@ The following table is the reference for the taskID and task-variationID
 
 | ***TASK-ID*** | ***Task*** | ***Number of Variations*** |
 | -------------- | ---------- | --------------- |
-| 1 | Waste collection | 10 |
-| 2 | Pharmacy Tasks | 10 |
+| 1 | Waste management | 10 |
+| 2 | Medication Management | 10 |
+| 3 | Pathological Management |  |
 
 
