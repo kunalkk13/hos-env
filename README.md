@@ -11,6 +11,6 @@ The following table is the reference for the taskID and task-variationID
 | -------------- | ---------- | --------------- |
 | 1 | Waste management | 10 |
 | 2 | Medication Management | 10 |
-| 3 | Pathological Management |  |
+| 3 | Pathological Management | 10 |
 
 
