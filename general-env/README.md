@@ -3,16 +3,12 @@
    * Chamber-1
    * Chamber-2
    * ICU Ward
-      Chamber-1
-      Chamber-2
-      ICU Ward
-      General Ward
-      Poster
-      Doctor
-      Common Toilet
-      Staricase to 1st Floor
-      Nurse Station
-
+   * General Ward
+   * Poster
+   * Doctor
+   * Common Toilet
+   * Staircase to 1st Floor
+   * Nurse Station
 
 ### OBJECTS
 1. Nurses
