@@ -1,7 +1,7 @@
 # Custom-env
 The repo contains all the files that would be created for the environment for all the frameworks.
 
-* ```goldpath``` : Contains scripts that follow the actual ground path to accomplish a given task.
+* ```gameplay``` : Contains environment game scripts and sampled gameplays to create the dataset.
 * ```twine``` : games created using the twine framework.
 * ```Inform7``` : games created using the Inform7 framework.
 
