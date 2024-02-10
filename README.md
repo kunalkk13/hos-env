@@ -3,7 +3,7 @@ The repo contains all the files that would be created for the environment for al
 
 * ```gameplay``` : Contains environment game scripts and sampled gameplays to create the dataset.
 * ```twine``` : games created using the twine framework.
-* ```Inform7``` : games created using the Inform7 framework.
+* ```Inkle``` : games created using the InkleStudio framework.
 
 The following table is the reference for the taskID and task-variationID
 
