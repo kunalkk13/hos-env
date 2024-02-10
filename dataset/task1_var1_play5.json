@@ -1,0 +1,51 @@
+{"ACTION": "initialize", "OBSERVATION": "This room is called the hallway. In it, you see: a poster, a doctor, the agent, a nurse station. You also see:  A door to chamber1, A door to chamber2, A door to the ICU ward, A door to the general ward, A door to the common toilet, A staircase to go to 1st Floor. In your inventory, you see:  {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 0}
+{"ACTION": "go to doctor-1", "OBSERVATION": "You are near doctor-1 now.", "#Actions Used": 1}
+{"ACTION": "inventory", "OBSERVATION": "Not a valid action. Start again!", "#Actions Used": 2}
+{"ACTION": "go to 1st Floor", "OBSERVATION": "You are now on the 1st Floor landing. In it, you see: a corridor with doors leading to various rooms, the staircase to go down. You also see: A staircase leading to the Ground Floor, A door to the general ward, A door to the staff room, A door to the linen storage room.  There are no doctors chambers in this floor. Go back and complete the task!", "#Actions Used": 3}
+{"ACTION": "go to General ward", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 4}
+{"ACTION": "go to Ground Floor", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 5}
+{"ACTION": "go to Ground Floor", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 6}
+{"ACTION": "go to Ground Floor", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 7}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 8}
+{"ACTION": "go to linen storage room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 9}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 10}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 11}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 12}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 13}
+{"ACTION": "go to linen storage room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 14}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 15}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 16}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 17}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 18}
+{"ACTION": "go to linen storage room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 19}
+{"ACTION": "go to linen storage room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 20}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 21}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 22}
+{"ACTION": "go to Ground Floor", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 23}
+{"ACTION": "go to linen storage room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 24}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 25}
+{"ACTION": "go to Ground Floor", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 26}
+{"ACTION": "go to Ground Floor", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 27}
+{"ACTION": "go to linen storage room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 28}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 29}
+{"ACTION": "go to General ward", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 30}
+{"ACTION": "go to linen storage room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 31}
+{"ACTION": "go to General ward", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 32}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 33}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 34}
+{"ACTION": "go to Ground Floor", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 35}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 36}
+{"ACTION": "go to General ward", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 37}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 38}
+{"ACTION": "go to General ward", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 39}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 40}
+{"ACTION": "go to linen storage room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 41}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 42}
+{"ACTION": "go to Staff room", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 43}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 44}
+{"ACTION": "go to Ground Floor", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 45}
+{"ACTION": "go to General ward", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 46}
+{"ACTION": "go to General ward", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 47}
+{"ACTION": "go to General ward", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 48}
+{"ACTION": "go to Ground Floor", "OBSERVATION": "Not valid. Try going back to exploring doctors chambers", "#Actions Used": 49}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : {'objects': ['tissue-papers', 'floor-wipe'], 'waste': []}", "#Actions Used": 50}
