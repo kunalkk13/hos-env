@@ -1,7 +1,7 @@
 # Custom-env
 The repo contains all the files that would be created for the environment for all the frameworks.
 
-* ```gameplay``` : Contains environment game scripts and sampled gameplays to create the dataset.
+* ```source``` : Contains environment game scripts and sampled gameplays to create the dataset.
 * ```twine``` : games created using the twine framework.
 * ```Inkle``` : games created using the InkleStudio framework.
 
