@@ -6,3 +6,4 @@ Steps for waste collection :
 2.    Understand what is a waste product and collect it.
 3.    Dispose it to the nearest or any other dustbins.
 4.    Remember to dispose off all the waste products to the dustbin that are in the doctor chambers.
+
