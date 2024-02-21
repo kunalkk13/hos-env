@@ -1,0 +1,26 @@
+{"ACTION": "<initialize>", "OBSERVATION": "You are in the hallway. This room is called the hallway. This is the main corridor in the ground floor from which we can go to other rooms. The rooms that we can go from here are : doctor chamber #1, doctor chamber #2, general ward, icu ward, common toilet, nurse station. The room contains : wall poster, doctor #1, agent.", "#Actions Used": 0}
+{"ACTION": "examine wall poster", "OBSERVATION": "This is a poster comprising a picture of a baby boy smiling. . ", "#Actions Used": 1}
+{"ACTION": "examine wall poster", "OBSERVATION": "This is a poster comprising a picture of a baby boy smiling. . ", "#Actions Used": 2}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : . ", "#Actions Used": 3}
+{"ACTION": "go to doctor chamber #1", "OBSERVATION": "This is the doctor chamber #1. Doctors in OPD diagnose patients here. The rooms that we can go from here are : hallway. The room contains : doctor table, doctor chair, patient bed, patient bed table, dustbin.", "#Actions Used": 4}
+{"ACTION": "examine doctor table", "OBSERVATION": "This table belongs to the doctor who keeps his belongings. . It contains: book, lamp, waste paper, note pad. ", "#Actions Used": 5}
+{"ACTION": "examine dustbin", "OBSERVATION": "A dustbin for disposing waste materials. ", "#Actions Used": 6}
+{"ACTION": "examine doctor chair", "OBSERVATION": "This chair belongs to the doctor. It is near the doctor table. . ", "#Actions Used": 7}
+{"ACTION": "collect waste paper", "OBSERVATION": "waste paper added to inventory. ", "#Actions Used": 8}
+{"ACTION": "examine dustbin", "OBSERVATION": "A dustbin for disposing waste materials. ", "#Actions Used": 9}
+{"ACTION": "put waste paper on dustbin", "OBSERVATION": "waste paper placed on dustbin.", "#Actions Used": 10}
+{"ACTION": "examine dustbin", "OBSERVATION": "A dustbin for disposing waste materials. It contains: waste paper. ", "#Actions Used": 11}
+{"ACTION": "go to hallway", "OBSERVATION": "This room is called the hallway. This is the main corridor in the ground floor from which we can go to other rooms. The rooms that we can go from here are : doctor chamber #1, doctor chamber #2, general ward, icu ward, common toilet, nurse station. The room contains : wall poster, doctor #1, agent.", "#Actions Used": 12}
+{"ACTION": "go to nurse station", "OBSERVATION": "This is the nurse station. You see nurses at work here. You can get information from the nurse station.The rooms that we can go from here are : hallway. The room contains : computer station, filing cabinet.", "#Actions Used": 13}
+{"ACTION": "examine filing cabinet", "OBSERVATION": "This is the filing cabinet comprising of different patient files used during treatment by the doctors and nurses. . ", "#Actions Used": 14}
+{"ACTION": "examine filing cabinet", "OBSERVATION": "This is the filing cabinet comprising of different patient files used during treatment by the doctors and nurses. . ", "#Actions Used": 15}
+{"ACTION": "examine filing cabinet", "OBSERVATION": "This is the filing cabinet comprising of different patient files used during treatment by the doctors and nurses. . ", "#Actions Used": 16}
+{"ACTION": "examine computer station", "OBSERVATION": "This is a computer station comprising of 3 computers. These are used for extracting information and registration. Can only be accessed by the nurses. . ", "#Actions Used": 17}
+{"ACTION": "inventory", "OBSERVATION": "Your inventory includes : . ", "#Actions Used": 18}
+{"ACTION": "go to hallway", "OBSERVATION": "This room is called the hallway. This is the main corridor in the ground floor from which we can go to other rooms. The rooms that we can go from here are : doctor chamber #1, doctor chamber #2, general ward, icu ward, common toilet, nurse station. The room contains : wall poster, doctor #1, agent.", "#Actions Used": 19}
+{"ACTION": "go to common toilet", "OBSERVATION": "This is the common toilet in the hallway. This has single occupancy. The rooms that we can go from here are : hallway. The room contains : .", "#Actions Used": 20}
+{"ACTION": "go to hallway", "OBSERVATION": "This room is called the hallway. This is the main corridor in the ground floor from which we can go to other rooms. The rooms that we can go from here are : doctor chamber #1, doctor chamber #2, general ward, icu ward, common toilet, nurse station. The room contains : wall poster, doctor #1, agent.", "#Actions Used": 21}
+{"ACTION": "go to doctor chamber #2", "OBSERVATION": "This is the doctor chamber #2. Doctors in OPD diagnose patients here. The rooms that we can go from here are : hallway. The room contains : doctor table, doctor chair, patient bed, patient bed table, banana peel, dustbin.", "#Actions Used": 22}
+{"ACTION": "collect banana peel", "OBSERVATION": "banana peel added to inventory. ", "#Actions Used": 23}
+{"ACTION": "put banana peel on dustbin", "OBSERVATION": "banana peel placed on dustbin.", "#Actions Used": 24}
+{"success": 1, "Number of actions taken": 24}
