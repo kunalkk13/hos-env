@@ -14,3 +14,5 @@ Consider task-1 and variation-1
 python env_t1v1.py
 ```
 Running the file on the terminal will result in the gameplay of the particular environment in the terminal itself. However, the action-observation pairs are automatically generated as json file in the same directory for the entire gameplay.
+
+![alt text](source/images/img1.png)
