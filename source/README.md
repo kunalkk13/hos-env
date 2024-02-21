@@ -15,4 +15,5 @@ python env_t1v1.py
 ```
 Running the file on the terminal will result in the gameplay of the particular environment in the terminal itself. However, the action-observation pairs are automatically generated as json file in the same directory for the entire gameplay.
 
-![Alt text](https://github.com/kunalkk13/hos-env/source/images/img1.png?raw=true)
+
+![My Image](https://github.com/kunalkk13/hos-env/source/images/img1.png)
