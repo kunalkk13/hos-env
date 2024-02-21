@@ -7,3 +7,10 @@ Steps for waste collection :
 3.    Dispose it to the nearest or any other dustbins.
 4.    Remember to dispose off all the waste products to the dustbin that are in the doctor chambers.
 
+**How to play :**
+
+Consider task-1 and variation-1
+```
+python env_t1v1.py
+```
+Running the file on the terminal will result in the gameplay of the particular environment in the terminal itself. However, the action-observation pairs are automatically generated as json file in the same directory for the entire gameplay.
